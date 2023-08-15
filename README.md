@@ -1,6 +1,6 @@
 # Redcord
 
-Redcord is a simple reddit intergration for discord. It allows you to lookup post from reddit and see them in discord.
+Redcord is a simple reddit intergration for discord.
 
 ## Features
 * Lookup newest posts from a subreddit

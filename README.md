@@ -1,13 +1,16 @@
 # Redcord
-
 Redcord is a simple reddit intergration for discord.
 
 ## Features
-* Lookup newest posts from a subreddit
+* Lookup posts from a subreddit
 
 ## Commands
 ### Subreddit
-* `/subreddit new` - Lookup the newest post from a subreddit | Arguments: `subreddit`, `limit` (optional)
+Arguments: `subreddit`, `limit` (optional)
+* `/subreddit new` - See the newest posts from a subreddit
+* `/subreddit hot` - See the hottest posts from a subreddit
+* `/subreddit top` - See the top posts from a subreddit | Arguments: `time` (optional)
+* `/subreddit rising` - See the rising posts from a subreddit
 
 ## Hosting
 ### Requirements
